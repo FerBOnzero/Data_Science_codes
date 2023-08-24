@@ -1,0 +1,2 @@
+datos <- mtcars
+str(datos)
