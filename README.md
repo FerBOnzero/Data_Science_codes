@@ -1,2 +1,2 @@
 # Data_Science_codes
-Códigos usados en la carera de Ciencia de Datos
+Códigos usados en la carrera de Ciencia de Datos
